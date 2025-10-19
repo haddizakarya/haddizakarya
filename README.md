@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zakarya
+# 👋 Hi, I'm Zakarya Haddi
 🎓 PhD Student in Telecommunications  
 🔬 Research Focus: Intelligent Reflecting Surfaces (IRS) and 6G Networks  
 💡 Interests: Optimization, Electromagnetics, and Smart Reconfigurable Antennas  

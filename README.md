@@ -4,8 +4,8 @@
 💡 Interests: Optimization, Electromagnetics, and Smart Reconfigurable Antennas  
 
 ## 📂 Featured Projects
-- [IRS-Simulation](https://github.com/haddiakarya/IRS-Simulation)
-- [Wideband-IRS-Design](https://github.com/haddizakarya/Wideband-IRS-Design)
+- [IRS-Simulation](https://github.com/haddizakarya/IRS-Simulation)
+
 
 ## 📫 Contact
 📧 haddi.zakarya@gmail.com  

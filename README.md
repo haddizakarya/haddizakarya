@@ -1,16 +1,12 @@
-## Hi there 👋
+# 👋 Hi, I'm Zakarya
+🎓 PhD Student in Telecommunications  
+🔬 Research Focus: Intelligent Reflecting Surfaces (IRS) and 6G Networks  
+💡 Interests: Optimization, Electromagnetics, and Smart Reconfigurable Antennas  
 
-<!--
-**haddizakarya/haddizakarya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📂 Featured Projects
+- [IRS-Simulation](https://github.com/ZakaryaResearch/IRS-Simulation)
+- [Wideband-IRS-Design](https://github.com/ZakaryaResearch/Wideband-IRS-Design)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+📧 zakarya@example.com  
+🔗 [LinkedIn](https://linkedin.com/in/zakarya)
